@@ -21,4 +21,5 @@ The the dataset that we used here is [IEEE-CIS Fraud Detection](https://www.kagg
   * Detailed MetaData
   * Highly inuvitive feature data and explainations from
   * Real world data (not synthetic as it has certain features encoded to protect privacy, just sounded cooler than synthetic data)
-  *  
+  * Large number of datasets used for increased efficiency
+Further details about the dataset and code implememntation are as mentioned above.
